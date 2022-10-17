@@ -1,2 +1,2 @@
-# Titanic_Kaggle
+# Titanic-Kaggle
 
